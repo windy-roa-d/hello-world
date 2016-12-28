@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/windy-roa-d/hello-world",
   "devDependencies": {
-    "gulp": "~3.9.1"
+    "gulp": "~3.9.1",
+    "gulp-sass": "~3.0.0"
   }
 }
